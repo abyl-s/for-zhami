@@ -3,11 +3,11 @@ import catAnimation from '../public/catValentine.gif'
 
 const rejections: string[] = [
     'Прости но нет',
-    'Ты уверена?',
-    'Подумай',
-    "Я ща заплачу",
-    "Я не верю",
-    'ПОЖАЛУЙСТА! ! !',
+    'НЕТ!',
+    'no no no',
+    "i press NO",
+    "I can’t believe",
+    'Please! ! !',
 ]
 
 interface Position {
