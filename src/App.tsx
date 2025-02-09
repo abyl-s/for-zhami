@@ -2,11 +2,11 @@ import { CSSProperties, useMemo, useState } from 'react'
 import catAnimation from '../public/catValentine.gif'
 
 const rejections: string[] = [
-    'Прости но нет',
-    'НЕТ!',
-    'no no no',
-    "i press NO",
-    "I can’t believe",
+    'Прости но нет😔',
+    'не-а🙂‍↔️',
+    'no no no😡',
+    "i press NO! 🤬",
+    "уговорил 😁",
     'Please! ! !',
 ]
 
